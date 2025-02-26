@@ -1,0 +1,6 @@
+How Thiis Code Works ? 
+1. The user is asked to input a Transaction ID.
+2. If the ID exists, it shows the Amount and Date.
+3. If the ID doesn’t exist, it prints "Transaction ID not found. Try again."
+4. The user can enter 0 to exit the loop.
+5. If the user enters invalid input, it asks again.
